@@ -98,3 +98,4 @@ $priusChecker = new CarChecker($prius);
 
 var_dump($corollaChecker->check());
 var_dump($priusChecker->check());
+
